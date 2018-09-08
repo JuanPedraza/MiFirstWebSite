@@ -1,0 +1,89 @@
+body {
+    font-size: 20px;
+}
+
+
+.main {
+    background-color: #2E112D;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px color: white;
+    border-radius: 4px;
+
+}
+
+.body {
+    padding: 60px 15px;
+}
+
+.Text {
+    text-align: center;
+    color: darkorange;
+    font-family: 'Gloria Hallelujah', cursive;
+    margin-top: 0;
+    font-size: 1.5em;
+
+}
+
+.text-link {
+    color: aliceblue;
+    font-family: 'Playfair Display', serif;
+    margin-right: -4px;
+    text-decoration: none;
+    width: 33%;
+    display: inline-block;
+}
+
+.main-container {
+    min-height: 100vh;
+}
+
+.card {
+
+    border-radius: 4px;
+    background-color: white;
+    box-shadow: 3px 3px 5px #888888;
+    margin-right: -0.5px;
+}
+
+.soft img {
+
+    width: 100px;
+}
+
+.soft h3 {
+    font-size: 1.7em;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.delay-1 {
+    animation-delay: 0.1s;
+    position: relative;
+    z-index: 5;
+}
+
+.delay-2 {
+    animation-delay: 0.2s;
+    position: relative;
+    z-index: 4;
+
+}
+
+.delay-3 {
+    animation-delay: 0.3s
+    position: relative;
+    z-index: 3;
+}
+
+.delay-4 {
+    animation-delay: 0.4s;
+    position: relative;
+    z-index: 2;
+}
+
+-delay-5 {
+    animation-delay: 0.5s;
+    position: relative;
+    z-index: 1;
+}
